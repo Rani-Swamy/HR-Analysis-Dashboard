@@ -54,3 +54,7 @@ The HR Analytics Dashboard is a Business Intelligence project developed using Po
 # Dashboard
 <a href="https://github.com/Rani-Swamy/HR-Analysis-Dashboard/blob/main/SCREENSHOT.png">View Dashboard</a>
 
+# Conclusion
+The HR Analytics Dashboard provides a comprehensive view of the organization's workforce by monitoring employee count, attrition, demographics, experience, salary, and department-wise performance. The analysis shows an attrition rate of 16.3%, with higher turnover in the Administration and Sales departments, while 1,186 active employees reflect strong workforce stability. Attrition is more common among employees with lower experience and job satisfaction. These insights help HR identify retention challenges, improve employee engagement, optimize workforce planning, and make data-driven decisions to enhance overall organizational performance.
+
+
