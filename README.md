@@ -37,3 +37,12 @@ The HR Analytics Dashboard is a Business Intelligence project developed using Po
 •	Data Analysis – Analyzed employee demographics, performance, department-wise attrition, overtime, and job satisfaction. 
 
 •	Insights & Recommendations – Identified key attrition factors and provided recommendations to improve employee retention and organizational performance.
+
+# Insights
+•	The organization has 1,417 employees, with 1,186 active employees, indicating a strong workforce and 83.7% employee retention. 
+•	The attrition count is 231, resulting in an overall attrition rate of 16.3%. 
+•	Active employees are mainly concentrated in the Operations and Administration departments, showing stable workforce performance. 
+•	Attrition is highest in the Administration and Sales departments, requiring focused retention strategies. 
+•	Employees with higher experience and better job satisfaction tend to stay longer, while lower experience and satisfaction contribute to higher attrition. 
+•	Improving employee engagement, career growth, and compensation can further enhance performance and reduce attrition.
+
