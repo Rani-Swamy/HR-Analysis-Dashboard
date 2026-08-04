@@ -16,6 +16,7 @@ The HR Analytics Dashboard is a Business Intelligence project developed using Po
 
 # Process
 •	Data Collection – Imported the HR Analytics dataset into Power BI. 
+
 •	Data Cleaning – Removed duplicates, handled missing values, corrected data types, and ensured data accuracy. 
 •	Data Transformation – Used Power Query to clean, format, and prepare the data for analysis. 
 •	Data Modeling – Built relationships between tables and created an optimized data model. 
