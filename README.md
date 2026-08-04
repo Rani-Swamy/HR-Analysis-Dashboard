@@ -6,11 +6,17 @@ The HR Analytics Dashboard is a Business Intelligence project developed using Po
 
 # Questions KPI’s
 •	How many employees are currently working in the organization? 
+
 •	What is the total employee count? 
+
 •	What is the current employee attrition rate? 
+
 •	How many employees have left the organization? 
+
 •	What is the average age of employees? 
+
 •	What is the average monthly salary? 
+
 •	What is the average work experience of employees? 
 			
 
