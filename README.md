@@ -51,3 +51,6 @@ The HR Analytics Dashboard is a Business Intelligence project developed using Po
 
 •	Improving employee engagement, career growth, and compensation can further enhance performance and reduce attrition.
 
+# Dashboard
+<a href="https://github.com/Rani-Swamy/HR-Analysis-Dashboard/blob/main/SCREENSHOT.png">View Dashboard</a>
+
