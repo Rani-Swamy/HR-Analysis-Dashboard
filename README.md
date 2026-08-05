@@ -7,7 +7,7 @@ The objective of this project is to analyze employee data and identify workforce
 # Dataset Used
 <a href="https://github.com/Rani-Swamy/HR-Analysis-Dashboard/blob/main/HR_Analytics-4.xlsx">HR DataSet</a>
 
-# Questions KPI’s
+# Questions (KPIs)
 •	How many employees are currently working in the organization? 
 
 •	What is the total employee count? 
