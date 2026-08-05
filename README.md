@@ -1,6 +1,8 @@
 # HR Analytics Dashboard Using Power BI
+
 ## Project Objective
-     The objective of this project is to analyze employee data and identify workforce trends, employee performance, and the major factors contributing to employee attrition. The dashboard helps HR managers make informed decisions regarding employee retention, and workforce planning.
+     
+The objective of this project is to analyze employee data and identify workforce trends, employee performance, and the major factors contributing to employee attrition. The dashboard helps HR managers make informed decisions regarding employee retention, and workforce planning.
 
 # Dataset Used
 <a href="https://github.com/Rani-Swamy/HR-Analysis-Dashboard/blob/main/HR_Analytics-4.xlsx">HR DataSet</a>
